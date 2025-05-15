@@ -1,93 +1,100 @@
-# -Food-Waste-Supply-Chain-Management
-This repository contains the final year project report and related materials for the Food and Waste Supply Chain Management System, submitted in partial fulfillment of the requirements for the Bachelor of Technology in Mechanical Engineering at JSS Academy of Technical Education, Noida, under Dr. APJ Abdul Kalam Technical University.
+# Food and Waste Supply Chain Management System
 
-📘 # Project Overview
-The aim of this study is to identify and analyze the critical factors that inhibit the reduction of food waste in the Indian Agri-Food Supply Chain (AFSC). By minimizing food waste, the system promotes sustainability from economic, social, and environmental perspectives.
+This repository contains the final year project report and materials for **Food and Waste Supply Chain Management System**, developed as part of the Bachelor of Technology in Mechanical Engineering at **JSS Academy of Technical Education, Noida**, under **Dr. APJ Abdul Kalam Technical University**.  
 
-A total of 33 inhibiting factors were identified through literature review and expert consultations. These were grouped into 9 broad categories using Delphi analysis, and their interrelationships were studied using Interpretive Structural Modelling (ISM) and MICMAC analysis.
+---
 
-🎯 # Objectives
-Identify key barriers to food waste reduction in the Agri-Food Supply Chain.
+## 📘 Project Overview  
+The study identifies and analyzes critical factors inhibiting food waste reduction in the **Indian Agri-Food Supply Chain (AFSC)**. By addressing these barriers, the system promotes sustainability across economic, social, and environmental dimensions.  
+- **33 inhibiting factors** were identified through literature review and expert consultations.  
+- Grouped into **9 categories** using Delphi analysis.  
+- Interrelationships studied via **Interpretive Structural Modelling (ISM)** and **MICMAC analysis**.  
 
-Group related inhibiting factors into super-sets for simplification.
+**Alignment**: Supports UN Sustainable Development Goal 12.3 (halving food waste by 2030).  
 
-Analyze interdependencies among these groups using ISM.
+---
 
-Classify the driving and dependence power of each factor using MICMAC analysis.
+## 🎯 Objectives  
+1. Identify barriers to food waste reduction in the AFSC.  
+2. Group inhibiting factors into super-sets for simplification.  
+3. Analyze interdependencies among factors using ISM.  
+4. Classify factors by driving/dependence power via MICMAC analysis.  
+5. Provide actionable insights for stakeholders to improve AFSC efficiency.  
 
-Provide managerial insights to stakeholders for a sustainable and efficient AFSC.
+---
 
-🧩 # Methodology
-Literature Review: To extract a comprehensive list of food waste-related factors.
+## 🧩 Methodology  
+### 1. Literature Review  
+Extracted 33 critical factors contributing to food waste in the AFSC.  
 
-Delphi Method: Expert consultation to validate and refine the list.
+### 2. Delphi Method  
+Validated and refined factors through expert consultations.  
 
-Interpretive Structural Modeling (ISM): To determine hierarchical relationships between grouped factors.
+### 3. Interpretive Structural Modelling (ISM)  
+Mapped hierarchical relationships between 9 grouped categories.  
 
-MICMAC Analysis: Classification of factors into:
+### 4. MICMAC Analysis  
+Classified factors into four clusters:  
+- **Independent** (high driving, low dependence)  
+- **Linkage** (high driving, high dependence)  
+- **Dependent** (low driving, high dependence)  
+- **Autonomous** (low driving, low dependence)  
 
-Independent (high driving, low dependence),
+---
 
-Linkage (high driving, high dependence),
+## 🔍 Key Findings  
+- **9 Super Factors** identified:  
+  - Supply Chain Uncertainty  
+  - Technical Support  
+  - Consumerism  
+  - Policy and Framework  
+  - Inefficient Infrastructure  
+  - Distribution Network  
+  - *...and others*  
+- **Information Technology** emerged as a *linkage factor* (critical enabler).  
+- **Independent factors** (e.g., supply chain uncertainty) require prioritized intervention.  
 
-Dependent (low driving, high dependence),
+---
 
-Autonomous (low driving, low dependence).
+## 📊 Tools & Techniques  
+- **Delphi Analysis** (factor validation).  
+- **Interpretive Structural Modelling (ISM)** (hierarchy mapping).  
+- **MICMAC Analysis** (factor classification).  
 
-🔍 # Key Findings
-33 critical factors were initially identified and grouped into 9 super factors, including:
+*Note: Qualitative methods were used; no software tools or programming languages were applied.*  
 
-Supply Chain Uncertainty
+---
 
-Technical Support
+## 🏛️ Institution  
+**Department**: Mechanical Engineering  
+**College**: JSS Academy of Technical Education, Noida  
+**University**: Dr. A.P.J. Abdul Kalam Technical University, Lucknow  
 
-Consumerism
+---
 
-Policy and Framework
+## 👨🏫 Supervision  
+**Mr. Nitin Kumar Chauhan**  
+*Assistant Professor, Mechanical Engineering*  
 
-Inefficient Infrastructure
+---
 
-Distribution Network, etc.
+## 👨🎓 Team Members  
+1. Abhishek Rajput (1900910400007)  
+2. Aniket Gupta (1900910400025)  
+3. Anmol Agrawal (1900910400029)  
+4. Deepak Chauhan (1900910400048)  
 
-Information Technology was found to be a linkage factor, playing a critical enabling role in food waste reduction.
+---
 
-Independent factors like supply chain uncertainty and food characteristics require the most attention.
+## 📁 Repository Contents  
+- `Food & Waste Supply Chain Management.docx`: Full project report.  
+- `README.md`: Summary of the project.  
 
-📊 # Tools & Techniques Used
-Delphi Analysis
+---
 
-Interpretive Structural Modelling (ISM)
+## 📌 Conclusion  
+This study provides a structured framework to address food waste in India’s agri-food sector. By prioritizing high-impact factors and leveraging interrelationships, the findings offer actionable strategies to enhance supply chain sustainability, reduce waste, and improve food security.  
 
-MICMAC Analysis
+---
 
-These were used for qualitative analysis and modeling, not software tools or programming languages.
-
-🏛️ # Institution
-Department: Mechanical Engineering
-
-College: JSS Academy of Technical Education, Noida
-
-University: Dr. A.P.J. Abdul Kalam Technical University, Lucknow
-
-👨‍🏫 # Supervised By
-Mr. Nitin Kumar Chauhan
-Assistant Professor, Mechanical Engineering
-
-👨‍🎓 # Team Members
-
-Abhishek Rajput (1900910400007)
-
-Aniket Gupta (1900910400025)
-
-Anmol Agrawal (1900910400029)
-
-Deepak Chauhan (1900910400048)
-
-📁 # Contents of the Repository
-Food & Waste Supply Chain Management.docx – Full Project Report
-
-README.md – Project summary
-
-📌 # Conclusion
-The study provides a structured approach to understanding food waste issues in India's agri-food sector. By targeting high-priority factors and leveraging interrelationships, this work offers strategic direction to decision-makers in improving food security and sustainability in supply chains.
-
+*For details, refer to the full report or contact the team.*  

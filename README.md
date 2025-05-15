@@ -74,6 +74,7 @@ Mr. Nitin Kumar Chauhan
 Assistant Professor, Mechanical Engineering
 
 👨‍🎓 Team Members
+
 Abhishek Rajput (1900910400007)
 
 Aniket Gupta (1900910400025)
@@ -86,10 +87,6 @@ Deepak Chauhan (1900910400048)
 Food & Waste Supply Chain Management.docx – Full Project Report
 
 README.md – Project summary
-
-(Optional) presentation.pptx – If applicable, final presentation slides
-
-(Optional) references.bib – Bibliographic references
 
 📌 Conclusion
 The study provides a structured approach to understanding food waste issues in India's agri-food sector. By targeting high-priority factors and leveraging interrelationships, this work offers strategic direction to decision-makers in improving food security and sustainability in supply chains.
